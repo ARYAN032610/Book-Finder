@@ -75,8 +75,9 @@ src/
 ```bash
 npm install
 npm run dev
-Then open:http://localhost:5174/
-Live Demo:- 
+Then 
+open: http://localhost:5174/
+Live Demo:- https://aryan032610.github.io/Book-Finder/
 
 
 Author
