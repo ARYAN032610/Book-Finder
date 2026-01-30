@@ -47,6 +47,8 @@ The main goal of this project was to handle search efficiently and provide a smo
 ---
 
 ## Folder Structure
+
+'''
 src/
 ├── components/
 │ ├── BookCard.jsx
@@ -57,7 +59,7 @@ src/
 ├── main.jsx
 └── index.css
 
----
+'''
 
 ## How the app works
 
@@ -81,4 +83,4 @@ Live Demo:- https://aryan032610.github.io/Book-Finder/
 
 
 Author
-Aryan Mishra
+Aryan 
